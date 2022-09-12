@@ -1,5 +1,11 @@
 # T352
 
+´´´
+https://main.d3ahr4xap9kfqm.amplifyapp.com/ deploy en AWS Amplify
+´´´
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
